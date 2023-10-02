@@ -1,0 +1,57 @@
+
+.letter-form {
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #444654;
+}
+
+.info-about {
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: #ececf1;
+}
+
+.show-hide-button {
+    background-color: #444654;
+    color: white;
+    border: 1px solid #ececf1;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.show-hide-button:hover {
+    background-color: #202123;
+}
+
+.show-hide-button-send {
+    background-color: #444654;
+    margin-left: 2%;
+    color: white;
+    border: 1px solid #ececf1;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.show-hide-button-send:hover {
+    background-color: #202123;
+}
+
+.letter-button-extra {
+    background-color: #444654;
+    margin-left: 5px;
+    color: white;
+    border: 1px solid #ececf1;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.letter-button-extra:hover {
+    background-color: #202123;
+}

@@ -1,0 +1,76 @@
+
+.add-favorite-container {
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #444654;
+}
+
+.add-favorite-input {
+    width: 30%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.add-favorite-button {
+    background-color: #444654;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: white;
+    border: 1px solid #ececf1;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.add-favorite-button:hover {
+    background-color: #202123;
+}
+
+.show-hide-button {
+    background-color: #444654;
+    color: white;
+    border: 1px solid #ececf1;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.show-hide-button:hover {
+    background-color: #202123;
+}
+
+.users-ids {
+    border-top: 1px solid #ddd;
+    margin-left: 5px;
+}
+
+.user-item {
+    color: #ececf1;
+}
+
+.delete-id-button {
+    margin-left: 5px;
+    background-color: #444654;
+    color: #ececf1;
+    border: 1px solid #ececf1;
+    padding: 2px 3px;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.delete-id-button:hover {
+    background-color: #202123;
+}
+
+.text-user-ids {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #ececf1;
+    font-size: 14px;
+}
+
+

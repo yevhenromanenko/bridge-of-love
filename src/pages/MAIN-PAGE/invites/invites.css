@@ -1,0 +1,37 @@
+
+.invites-container {
+    margin: 0 auto;
+}
+
+.error-message {
+    background-color: #f22c3d;
+    color: #ececf1;
+    padding: 10px;
+}
+
+.start-stop-button {
+    background-color: #444654;
+    color: white;
+    border: 1px solid #ececf1;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.start-stop-button:hover {
+    background-color: #202123;
+}
+
+.online-users-info {
+    margin-top: 15px;
+    font-size: 16px;
+    color: #ececf1;
+}
+
+.today-count-info {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: #ececf1;
+}

@@ -1,0 +1,91 @@
+
+.letter-form {
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #444654;
+}
+
+textarea::placeholder {
+    color: #444654;
+}
+
+.subject-letter {
+    margin-top: 5px;
+    width: 30%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.content-letter {
+    height: 250px;
+    font-size: 14px;
+    padding: 10px;
+    width: 30%;
+    max-width: 100%;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    box-shadow: 1px 1px 1px #999;
+}
+
+.letter-button {
+    background-color: #444654;
+    margin-left: 5px;
+    color: white;
+    border: 1px solid #ececf1;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.letter-button:hover {
+    background-color: #202123;
+}
+
+.letter-button-letter {
+    background-color: #444654;
+    margin-left: 5px;
+    color: white;
+    border: 1px solid #ececf1;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.letter-button-letter:hover {
+    background-color: #202123;
+}
+
+.tag-button-letter {
+    background-color: #444654;
+    margin-left: 5px;
+    color: white;
+    border: 1px solid #ececf1;
+    padding: 7px 14px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.tag-button-letter:hover {
+    background-color: #202123;
+}
+
+.show-hide-button {
+    background-color: #444654;
+    color: white;
+    border: 1px solid #ececf1;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.show-hide-button:hover {
+    background-color: #202123;
+}
+

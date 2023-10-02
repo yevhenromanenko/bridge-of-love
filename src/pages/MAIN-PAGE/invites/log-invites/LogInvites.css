@@ -1,0 +1,47 @@
+
+.log-container {
+    margin: 0 200px auto auto;
+}
+
+.log-list {
+    list-style: none;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+    height: 220px;
+}
+
+.log-item {
+    display: flex;
+    /*justify-content: space-between;*/
+    align-items: center;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 2px;
+    color: #ececf1;
+}
+
+.scrollable {
+    max-height: 220px; /* Установите желаемую высоту для отображения прокрутки */
+    overflow-y: auto;
+}
+
+.img_in_log {
+    margin-left: 5px;
+}
+
+.ava_in_log {
+    width: 30px;
+    height: 35px;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.msg_in_log {
+    margin-left: 20px;
+    padding: 2px;
+    font-size: 12px;
+    color: #FFFFFF;
+}

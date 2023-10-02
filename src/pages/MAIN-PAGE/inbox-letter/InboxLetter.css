@@ -1,0 +1,19 @@
+
+
+.inbox-letter {
+    margin: 0 auto;
+    border: 1px solid #444654;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #ddd;
+}
+
+.inbox-letter-text {
+    color: #444654;
+    font-size: 16px;
+}
+
+.answer-letter-in-inbox {
+    color: #f22c3d;
+}
+
